@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+
+My name is Jimmy Blain, and I'm learning cloud technology for three reasons:
+1. I want to stay technically adept as I grow in my career.
+2. I want to have a base-level of salary [earning potential](https://www.glassdoor.com/Salaries/atlanta-ga-cloud-architect-salary-SRCH_IL.0,10_IM52_KO11,26.htm) to secure my family's future.
+3. I love technology and learning!
+
+Let's get this thing started!
 
 <!--
 **jimmyblain/jimmyblain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
