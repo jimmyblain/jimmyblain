@@ -1,12 +1,12 @@
 # Hi there 👋
 
-My name is [Jimmy Blain](https://www.linkedin.com/in/glajummyb/), and I'm learning cloud technology for three reasons:
+My name is [Jimmy Blain](https://www.linkedin.com/in/glajummyb/), and I'm primarily learning cloud technology for three reasons:
 
 1. I want to stay technically adept as I grow in my career.
 2. I want to have a base-level of salary [earning potential](https://www.glassdoor.com/Salaries/atlanta-ga-cloud-architect-salary-SRCH_IL.0,10_IM52_KO11,26.htm) to secure my family's future.
-3. I love technology and learning!
+3. I have passion for technology and believe in continous learning.
 
-**Let's get this thing started!**
+**Let's get started**
 
 
 <!--
