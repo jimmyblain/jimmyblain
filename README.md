@@ -1,25 +1,33 @@
-# Hi there 👋
+# Hey, I'm Jimmy 👋
 
-My name is [Jimmy Blain](https://www.linkedin.com/in/glajummyb/), and I'm primarily learning cloud technology for three reasons:
+**IT Director by day. Vibe coder by night.**
 
-1. I want to stay technically adept as I grow in my career.
-2. I want to have a base-level of salary [earning potential](https://www.glassdoor.com/Salaries/atlanta-ga-cloud-architect-salary-SRCH_IL.0,10_IM52_KO11,26.htm) to secure my family's future.
-3. I have passion for technology and believe in continous learning.
+I run IT operations and services management at [The Rockefeller Foundation](https://www.rockefellerfoundation.org/), where I lead enterprise technology strategy across cloud infrastructure, cybersecurity, and AI. My day job is all about making complex systems work seamlessly for people who shouldn't have to think about them.
 
-**Let's get started**
+But somewhere along the way, I caught the building bug.
 
+I'm not a traditional developer. I came up through support desks, MSP environments, and enterprise administration. I've spent years on the ops side of technology, managing Azure environments, automating IAM workflows, and wrangling Microsoft 365 tenants. Now I'm channeling that operational intuition into actually writing the things I used to only configure.
 
-<!--
-**jimmyblain/jimmyblain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔨 What I'm Building With
 
-Here are some ideas to get you started:
+- **Python** — my main squeeze right now
+- **Django / FastAPI** — exploring both for web projects
+- **Azure** — where I feel most at home in the cloud
+- **Claude Code, Cursor, Copilot** — leaning into AI-assisted development and loving it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎙️ Other Things I Do
+
+I host a podcast called **I'll Just Let Myself In**, where I explore life transitions and faith. It's the creative outlet that balances out all the YAML and JSON.
+
+## 🧠 My Perspective
+
+A decade in IT operations taught me what good software looks like from the other side. I know what breaks at scale, what creates tickets at 2 AM, and what makes an admin's life miserable. I bring that perspective to everything I build.
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/glajummy)
+- [Email](mailto:glajummyblain@gmail.com)
+
+---
+
+*Currently exploring the space where enterprise IT experience meets modern development. If you're an ops person learning to code, or a dev who wants to understand the ops mindset, I'd love to connect.*
