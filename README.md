@@ -25,7 +25,7 @@ A decade in IT operations taught me what good software looks like from the other
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/glajummy)
+- [LinkedIn](https://www.linkedin.com/in/glajummyb)
 - [Email](mailto:glajummyblain@gmail.com)
 
 ---
