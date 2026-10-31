@@ -10,14 +10,12 @@ I'm not a traditional developer. I came up through support desks, MSP environmen
 
 ## 🔨 What I'm Building With
 
-- **Python** — my main squeeze right now
-- **Django / FastAPI** — exploring both for web projects
 - **Azure** — where I feel most at home in the cloud
-- **Claude Code, Cursor, Copilot** — leaning into AI-assisted development and loving it
+- **Claude Code, Codex, Copilot** — leaning into AI-assisted development and loving it
 
 ## 🎙️ Other Things I Do
 
-I host a podcast called **I'll Just Let Myself In**, where I explore life transitions and faith. It's the creative outlet that balances out all the YAML and JSON.
+I help produce my wife's podcast called **I'll Just Let Myself In**, where she explores life transitions, faith, and the mindset needed to take agency and *let yourself in*. Having fun finding cool ways slowly replace the production pipeline.
 
 ## 🧠 My Perspective
 
@@ -25,6 +23,7 @@ A decade in IT operations taught me what good software looks like from the other
 
 ## 📫 Let's Connect
 
+- [Website](https://jimmyblain.com)
 - [LinkedIn](https://www.linkedin.com/in/glajummyb)
 - [Email](mailto:glajummyblain@gmail.com)
 
